@@ -142,7 +142,7 @@ function loadPosts(page) {
   });
 
   // Update pagination
-  document.querySelectorAll(".pagination .page").forEach((btn) => btn.classList.remov("active"));
+  document.querySelectorAll(".pagination .page").forEach((btn) => btn.classList.remove("active"));
   const activeButton = document.querySelector(`.pagination .page[data-page="${page}"]`);
   if (activeButton) activeButton.classList.add("active");
 }
