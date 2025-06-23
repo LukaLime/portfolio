@@ -6,7 +6,7 @@ const postsData = {
       title: "HerCalendar <br /> Person Web Application ",
       link: "https://gitlab.com/brandrock/HerCalendar",
       img: "images/HerCalendar.png",
-      description: "<i><b>HerCalendar</b></i> is a web-based menstrual cycle tracking application designed to help users log, view, and predict their menstrual cycles. Built using ASP.NET Core MVC, Entity Framework Core, and Razor Pages, and Entity Framework Core with a SQLite database, the app allows users to input and edit period start dates, automatically calculates cycle lengths, and displays a history of previous cycles in a clear table format. It also computes the average cycle length and predicts the next period start date, along with the number of days remaining until the estimated date. ",
+      description: "<i><b>HerCalendar</b></i> is a web-based menstrual cycle tracking application designed to help users log, view, and predict their menstrual cycles. Built using ASP.NET Core MVC, Entity Framework Core, and Razor Pages, and Entity Framework Core with a SQLite database, the app allows users to input and edit period start dates, automatically calculates cycle lengths, and displays a history of previous cycles in a clear table format. It also computes the average cycle length and predicts the next period start date, along with the number of days remaining until the estimated date.",
       buttonText: "@ Gitlab",
       buttonLink: "https://gitlab.com/brandrock/HerCalendar"
     },
