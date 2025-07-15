@@ -4,11 +4,11 @@ const postsData = {
     {
       date: "June 17, 2025",
       title: "HerCalendar <br /> Person Web Application ",
-      link: "https://gitlab.com/brandrock/HerCalendar",
+      link: "https://hercalendar-aza6fdc3g5hmbxa2.centralus-01.azurewebsites.net/",
       img: "images/HerCalendar.png",
       description: "<i><b>HerCalendar</b></i> is a web-based menstrual cycle tracking application designed to help users log, view, and predict their menstrual cycles. The app allows users to input and edit period start dates, automatically calculates cycle lengths, and displays a history of previous cycles in a clear table format.",
-      buttonText: "@ Github",
-      buttonLink: "https://github.com/LukaLime/HerCalendar"
+      buttonText: "Check It Out",
+      buttonLink: "https://hercalendar-aza6fdc3g5hmbxa2.centralus-01.azurewebsites.net/"
     },
     {
       date: "December 1, 2024",
